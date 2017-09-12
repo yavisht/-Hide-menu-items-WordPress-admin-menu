@@ -24,6 +24,6 @@ function yk_custom_remove_menus(){
 add_action( 'admin_menu', 'yk_custom_remove_menus' );
 
 ///////////////////////////////////////////////////////
-///// END Disable Comments and Tools from Dashboard
+///// END Disable Posts and Comments from Dashboard
 ///////////////////////////////////////////////////////
 ?>
